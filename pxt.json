@@ -15,10 +15,11 @@
         "test.ts"
     ],
     "targetVersions": {
-        "target": "8.0.13",
+        "target": "8.0.15",
         "targetId": "microbit"
     },
     "supportedTargets": [
         "microbit"
-    ]
+    ],
+    "preferredEditor": "blocksprj"
 }
